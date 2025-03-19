@@ -1,8 +1,11 @@
 <template>
-  <h1>Hello Vue!</h1>
+  <h1>Hello Vue 2!</h1>
 </template>
 
-<script setup>
+<script>
+export default {
+  name: "App"
+};
 </script>
 
 <style>
