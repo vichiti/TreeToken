@@ -2,7 +2,10 @@
   <h1>Hello Vue!</h1>
 </template>
 
-<script setup>
+<script>
+export default {
+  name: "App"
+};
 </script>
 
 <style>
