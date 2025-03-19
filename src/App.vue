@@ -1,17 +1,20 @@
 <template>
-  <h1>Hello Vue 2!</h1>
+  <v-app>
+    <v-main>
+      <v-container class="text-center">
+        <h1>👋 Hello Vuetify + Vue3 + Vite!</h1>
+        <v-btn color="primary">Click me!</v-btn>
+      </v-container>
+    </v-main>
+  </v-app>
 </template>
 
-<script>
-export default {
-  name: "App"
-};
+<script setup>
+// You can add logic here later if needed.
 </script>
 
-<style>
+<style scoped>
 h1 {
-  text-align: center;
-  color: #42b983;
-  margin-top: 20%;
+  margin-bottom: 20px;
 }
 </style>
