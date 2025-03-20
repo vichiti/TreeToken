@@ -12,7 +12,7 @@
       <!-- Spacer to push buttons right -->
       <v-spacer></v-spacer>
       
-      <!-- Menu Buttons (Visible on md and up) -->
+      <!-- Menu Buttons (Visible on md and up.) -->
       <v-btn to="/" text class="d-none d-md-flex">Home</v-btn>
       <v-btn to="/make-tokens" text class="d-none d-md-flex">Make Tokens</v-btn>
       <v-btn to="/buy-tokens" text class="d-none d-md-flex">Buy Tokens</v-btn>
