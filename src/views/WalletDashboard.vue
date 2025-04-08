@@ -4,7 +4,7 @@
     <h2>My Wallet</h2>
     <v-card>
       <v-card-text>
-        <p>Tree Tokens: {{ tokenBalance }} TTs</p>
+        <p>Carbon Ledger Tokens: {{ tokenBalance }} TTs</p>
         <p>HBAR: {{ hbarBalance }}</p>
       </v-card-text>
       <v-card-actions>
