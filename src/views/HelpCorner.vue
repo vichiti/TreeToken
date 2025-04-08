@@ -4,7 +4,7 @@
     <h2>Help Corner</h2>
     <v-expansion-panels>
       <v-expansion-panel>
-        <v-expansion-panel-title>What’s a Tree Token?</v-expansion-panel-title>
+        <v-expansion-panel-title>What’s a Carbon Ledger Token?</v-expansion-panel-title>
         <v-expansion-panel-text>It’s a coin that shows you stopped CO2!</v-expansion-panel-text>
       </v-expansion-panel>
       <v-expansion-panel>
