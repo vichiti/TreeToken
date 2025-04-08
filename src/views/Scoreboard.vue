@@ -1,7 +1,7 @@
 <!-- src/views/Scoreboard.vue -->
 <template>
   <v-container>
-    <h2>Scoreboard</h2>
+    <h2>Transactions</h2>
     <v-list>
       <v-list-item v-for="event in events" :key="event.id">{{ event.text }}</v-list-item>
     </v-list>

@@ -8,7 +8,7 @@
           <v-text-field v-model="amount" type="number" label="How much CO2?" required></v-text-field>
           <v-file-input v-model="proof" label="Upload Proof" required></v-file-input>
           <v-text-field v-model="location" label="Where’s your project?" required></v-text-field>
-          <p>Fee: 5¢ per token. Total: H&hbar {{ (amount * 0.05).toFixed(2) }}</p>
+          <p>Fee: 5¢ per token. Total: &hbar;{{ (amount * 0.05).toFixed(2) }}</p>
           <v-btn type="submit" color="primary">Make My Tokens!</v-btn>
         </v-form>
         <v-alert v-if="status" type="success" class="mt-4">{{ status }}</v-alert>
