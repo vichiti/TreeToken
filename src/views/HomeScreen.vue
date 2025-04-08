@@ -6,9 +6,9 @@
         <h1>Welcome to Tree Token Shop!</h1>
         <p>Save the Planet, One Token at a Time!</p>
         <p>Total CO2 Saved: {{ totalCO2 }} Buckets!</p>
-        <v-btn color="primary" to="/make-tokens" class="ma-2">I'm a Tree Planter</v-btn>
-        <v-btn color="primary" to="/buy-tokens" class="ma-2">I'm a Buyer</v-btn>
-        <v-btn color="primary" to="/scoreboard" class="ma-2">See the Scoreboard</v-btn>
+        <v-btn color="primary" to="/make-tokens" class="ma-2">I'm a Carbon Reducer</v-btn>
+        <v-btn color="primary" to="/buy-tokens" class="ma-2">I'm a Carbon Emitter</v-btn>
+        <v-btn color="primary" to="/scoreboard" class="ma-2">See Transactions</v-btn>
         <v-icon large class="earth">mdi-earth</v-icon>
       </v-col>
     </v-row>
