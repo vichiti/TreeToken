@@ -7,7 +7,7 @@
       <v-app-bar-nav-icon @click="drawer = !drawer" class="d-md-none"></v-app-bar-nav-icon>
       
       <!-- Title -->
-      <v-toolbar-title>Carbon Ledger Shop</v-toolbar-title>
+      <v-toolbar-title>Carbon Ledger</v-toolbar-title>
       
       <!-- Spacer to push buttons right -->
       <v-spacer></v-spacer>

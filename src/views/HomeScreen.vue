@@ -3,7 +3,7 @@
   <v-container class="text-center">
     <v-row>
       <v-col>
-        <h1>Welcome to Tree Token Shop!</h1>
+        <h1>Welcome to Carbon Ledger Shop!</h1>
         <p>Save the Planet, One Token at a Time!</p>
         <p>Total CO2 Saved: {{ totalCO2 }} Buckets!</p>
         <v-btn color="primary" to="/make-tokens" class="ma-2">I'm a Carbon Reducer</v-btn>
