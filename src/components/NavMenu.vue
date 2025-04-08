@@ -17,7 +17,7 @@
       <v-btn to="/make-tokens" text class="d-none d-md-flex">Make Tokens</v-btn>
       <v-btn to="/buy-tokens" text class="d-none d-md-flex">Buy Tokens</v-btn>
       <v-btn to="/lock-tokens" text class="d-none d-md-flex">Lock Tokens</v-btn>
-      <v-btn to="/scoreboard" text class="d-none d-md-flex">Scoreboard</v-btn>
+      <v-btn to="/scoreboard" text class="d-none d-md-flex">Transactions</v-btn>
       <v-btn to="/help" text class="d-none d-md-flex">Help</v-btn>
       
       <!-- Wallet Icon (Always visible) -->
